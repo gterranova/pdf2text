@@ -51,7 +51,10 @@
     "node": ">=8.9"
   },
   "dependencies": {
-    "sha.js": "^2.4.11"
+    "glob": "^7.1.3",
+    "sha.js": "^2.4.11",
+    "temp": "^0.9.0",
+    "textract": "^2.4.0"
   },
   "devDependencies": {
     "ava": "1.0.0-beta.7",
